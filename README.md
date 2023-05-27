@@ -1,27 +1,44 @@
-# AuthApp
+<img src="https://media3.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" alt="Logo of the project" align="right" width="200">
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
 
-## Development server
+# Angular Login &middot; [![Build Status](https://img.shields.io/travis/npm/npm/latest.svg?style=flat-square)](https://travis-ci.org/npm/npm) [![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://www.npmjs.com/package/npm) 
+> 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+This project is login and register screen built with angularJS and typescript and connected to a backend api to make validations
 
-## Code scaffolding
+## Installing / Getting started
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+You need to install npm, and angular CLI
 
-## Build
+you must run 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+npm install 
+and then 
 
-## Running unit tests
+npm install -g @angular-cli
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+then you run it with npm run start
 
-## Running end-to-end tests
+you must see a screen where the login screen appears
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+### Built With
+Npm, AngularCLI, Typescript
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Prerequisites
+
+Npm, and angular CLI must be installed on your computer
+
+## Api Reference
+
+https://apitest.e-bango.com/api/documentation
+
+
+
+## Licensing
+
+This project is opensource, all commits are welcome.
+
+
+
+
