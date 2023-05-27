@@ -6,18 +6,19 @@
 
 This project is login and register screen built with angularJS and typescript and connected to a backend api to make validations
 
+## Why is this project important for me?
+
+For me this project was a challenge since was my first project in angular CLI , i was self-taught person and it took me a lot of research and knowledge to make this my first project, I'm very proud and very confident about after making this project I'll be capable to do anything from now. 
+
 ## Installing / Getting started
 
 You need to install npm, and angular CLI
 
-you must run 
+1- you must run npm install 
 
-npm install 
-and then 
+2- run npm install -g @angular-cli
 
-npm install -g @angular-cli
-
-then you run it with npm run start
+3- npm run start
 
 you must see a screen where the login screen appears
 
